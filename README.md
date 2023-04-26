@@ -27,4 +27,4 @@ sympy (python)
 
 This requires a working Python distribution (so that the python executable exists) with the Python packages numpy, sympy, scipy.integrate and Matplotlib also installed.
 
-*NOTE:  We need to estimate the density of the dataset using the gaussian_kernel_density function for different values of the bandwidth parameter 'h'
+* NOTE:  We need to estimate the density of the dataset using the gaussian_kernel_density function for different values of the bandwidth parameter 'h'
