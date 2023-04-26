@@ -1,5 +1,5 @@
 # PHSX815_Week12 (HW #13)
-- Gaussian Kernel density estimation
+- Gaussian Kernel Density Estimation
 
 
 # This repository contains:
